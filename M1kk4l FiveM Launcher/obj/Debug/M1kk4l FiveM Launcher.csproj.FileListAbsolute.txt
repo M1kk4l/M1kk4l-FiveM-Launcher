@@ -1,0 +1,14 @@
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\bin\Debug\M1kk4l FiveM Launcher.exe.config
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\bin\Debug\M1kk4l FiveM Launcher.exe
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\bin\Debug\M1kk4l FiveM Launcher.pdb
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l FiveM Launcher.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l FiveM Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l_FiveM_Launcher.Form1.resources
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l_FiveM_Launcher.Properties.Resources.resources
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l FiveM Launcher.csproj.GenerateResource.cache
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l FiveM Launcher.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l FiveM Launcher.exe
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l FiveM Launcher.pdb
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\bin\Debug\aa\M1kk4l FiveM Launcher.resources.dll
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\M1kk4l_FiveM_Launcher.Form1.aa.resources
+C:\Users\mikke\source\repos\M1kk4l FiveM Launcher\M1kk4l FiveM Launcher\obj\Debug\aa\M1kk4l FiveM Launcher.resources.dll
